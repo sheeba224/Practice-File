@@ -1,0 +1,43 @@
+body {
+    width: auto;
+    height: auto;
+}
+
+#div1 {
+    width: auto;
+    height: auto;
+    border: 5px solid red;
+    padding: 50px;
+    margin: 50px;
+}
+
+#nav {
+    margin: 0px auto 0px auto;
+    background-color: rgb(11, 0, 132);
+    height: 50px;
+}
+
+#navbar>li {
+    display: inline-block;
+    margin-right: 100px;
+    font-size: 25px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+#logo {
+    height: 40px;
+    width: 40px;
+    padding-top: 0px !important;
+    margin-top: 3px !important;
+    margin-right: 300px;
+}
